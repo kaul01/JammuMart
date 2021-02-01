@@ -1,0 +1,13 @@
+.footer-container {
+    height: 3rem;
+    display: flex;
+    background-color:#F5F5DC;
+    top: 0;
+    z-index: 100;
+    justify-content: center;
+    align-items: center;
+}
+.footer-container > h3 {
+    display:flex;
+    
+}

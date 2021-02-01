@@ -1,0 +1,21 @@
+.vegies {
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1500px;
+  }
+  
+
+  .vegies-row {  
+    display: flex; 
+    z-index: 1; 
+    margin-left: 5px;  
+    margin-right: 5px;
+  }
+
+  .head-name {
+    margin-top: 2rem;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
